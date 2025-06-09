@@ -5,3 +5,4 @@ scikit-learn
 streamlit-drawable-canvas
 torchvision
 torch
+psycopg2-binary
